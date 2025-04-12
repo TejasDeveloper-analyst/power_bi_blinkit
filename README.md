@@ -78,14 +78,6 @@ Without centralized visualization, key insights get lost in large datasets, slow
  
 ---
 
-## 📸 **Sample Screenshots**
-
-| Overview | Sales | Customer Feedback | Inventory | Marketing |
-|:--------:|:-----:|:-----------------:|:---------:|:---------:|
-| ![Overview](Screenshot (130).png) | ![Sales](Screenshot131.png) | ![Feedback](Screenshot132.png) | ![Inventory](Screenshot133.png) | ![Marketing](Screenshot134.png) |
-
----
-
 ## 🏆 **Key Outcomes**
 - 🔥 **Real-time visibility** into business-critical KPIs.
 - 🧠 **Enhanced operational efficiency** across teams.
