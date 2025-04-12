@@ -84,8 +84,6 @@ Without centralized visualization, key insights get lost in large datasets, slow
 |:--------:|:-----:|:-----------------:|:---------:|:---------:|
 | ![Overview](Screenshot (130).png) | ![Sales](Screenshot131.png) | ![Feedback](Screenshot132.png) | ![Inventory](Screenshot133.png) | ![Marketing](Screenshot134.png) |
 
-*(Update image paths based on your repository structure)*
-
 ---
 
 ## 🏆 **Key Outcomes**
