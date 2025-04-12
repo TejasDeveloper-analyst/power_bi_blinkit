@@ -82,7 +82,7 @@ Without centralized visualization, key insights get lost in large datasets, slow
 
 | Overview | Sales | Customer Feedback | Inventory | Marketing |
 |:--------:|:-----:|:-----------------:|:---------:|:---------:|
-| ![Overview](./assets/screenshots/Screenshot130.png) | ![Sales](./assets/screenshots/Screenshot131.png) | ![Feedback](./assets/screenshots/Screenshot132.png) | ![Inventory](./assets/screenshots/Screenshot133.png) | ![Marketing](./assets/screenshots/Screenshot134.png) |
+| ![Overview](Screenshot (130).png) | ![Sales](Screenshot131.png) | ![Feedback](Screenshot132.png) | ![Inventory](Screenshot133.png) | ![Marketing](Screenshot134.png) |
 
 *(Update image paths based on your repository structure)*
 
