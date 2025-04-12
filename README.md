@@ -89,6 +89,7 @@ Without centralized visualization, key insights get lost in large datasets, slow
 
 Interested in collaborating or want to know more?  
 Feel free to reach out! 🚀
+**LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/tejas-data-analyst/)
 
 ---
 
