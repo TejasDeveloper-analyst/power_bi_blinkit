@@ -10,7 +10,7 @@ A professional **Power BI dashboard** created to visualize and optimize operatio
 Blinkit specializes in delivering groceries and essentials within minutes. Managing fast-moving operational data across orders, inventory, customer feedback, and marketing activities is critical for business 
 growth.
 
-🔗 **Live Dashboard**: [Click Here to View Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNmZmNzNlOGQtMzdlZi00MDg3LTg3MzktYjMwYmJjYzdmNDEwIiwidCI6IjUwMTcxNjkxLTExNDItNDFjMi1hNzZjLWM2MDljZDExMmYzZiJ9])  
+🔗 **Live Dashboard**: [Click Here to View Dashboard][https://app.powerbi.com/view?r=eyJrIjoiNmZmNzNlOGQtMzdlZi00MDg3LTg3MzktYjMwYmJjYzdmNDEwIiwidCI6IjUwMTcxNjkxLTExNDItNDFjMi1hNzZjLWM2MDljZDExMmYzZiJ9])  
 
 **Challenge:**  
 Without centralized visualization, key insights get lost in large datasets, slowing decision-making and affecting customer satisfaction.
